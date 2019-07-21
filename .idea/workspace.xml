@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87ff31ce-283a-4f50-ab78-76e5c9548d68" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/personal/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="143" selection-start-line="9" selection-start-column="143" selection-end-line="9" selection-end-column="143" />
+              <caret line="9" column="141" selection-start-line="9" selection-start-column="141" selection-end-line="9" selection-end-column="141" />
               <folding>
                 <element signature="e#27#62#0" expanded="true" />
               </folding>
@@ -169,12 +168,12 @@
       <updated>1563379361317</updated>
       <workItem from="1563379362602" duration="14299000" />
       <workItem from="1563642026328" duration="440000" />
-      <workItem from="1563677559317" duration="1688000" />
+      <workItem from="1563677559317" duration="1881000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16427000" />
+    <option name="totallyTimeSpent" value="16620000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -394,7 +393,7 @@
     <entry file="file://$PROJECT_DIR$/personal/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="143" selection-start-line="9" selection-start-column="143" selection-end-line="9" selection-end-column="143" />
+          <caret line="9" column="141" selection-start-line="9" selection-start-column="141" selection-end-line="9" selection-end-column="141" />
           <folding>
             <element signature="e#27#62#0" expanded="true" />
           </folding>
