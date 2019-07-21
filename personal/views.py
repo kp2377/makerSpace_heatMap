@@ -7,4 +7,4 @@ def index(request):
     return render(request, 'personal/home.html')
 
 def contact(request):
-    return render(request, 'personal/basic.html',{'content':['If you would like to contact me, please email me.','kp2377@nyu.edu']})
+    return render(request, 'personal/basic.html',{'content':['If you would like to contact me, please email me.','kp2377@nyu.eduAlso. this is the change made to test git pull']})
