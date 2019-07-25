@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Time",
+    "type": "date",
+    "format": "%d-%b-%y"
+  },
+  {
+    "name": "Number Of People in the Space",
+    "type": "number"
+  }
+]
