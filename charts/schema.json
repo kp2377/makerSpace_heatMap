@@ -5,7 +5,7 @@
     "format": "%d-%b-%y"
   },
   {
-    "name": "Number Of People in the Space",
+    "name": "people_count",
     "type": "number"
   }
 ]
