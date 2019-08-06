@@ -2,7 +2,7 @@
   {
     "name": "Time",
     "type": "date",
-    "format": "%d-%b-%y"
+    "format": "%d-%b-%Y"
   },
   {
     "name": "people_count",
